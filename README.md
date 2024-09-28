@@ -1,6 +1,7 @@
 # 🎥 Prime Video Data Exploration
 
-![Amazon Prime Video Logo]([link_to_your_amazon_logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-world.net%2Famazon-prime-video-logo%2F&psig=AOvVaw0BDLEj9cLSo9kLR5dn-rEP&ust=1727636181220000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKCx1bio5ogDFQAAAAAdAAAAABAE))  
+![Amazon-Prime-Video-Symbol](https://github.com/user-attachments/assets/d7fb3c9b-458c-4747-ae02-0ac0e3c90cf8)
+
 
 Welcome to the Prime Video Data Exploration project! This project dives into the world of Amazon Prime Video's vast content library, providing insightful visualizations and analysis of trends, genres, ratings, and more.
 
