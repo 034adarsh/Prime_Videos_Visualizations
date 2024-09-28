@@ -47,7 +47,7 @@ Interactive visualizations with Plotly make this project engaging, allowing user
 
 This project explored the vast content library of Amazon Prime Video, uncovering valuable insights about release trends, genres, ratings, and content types. Through this analysis, we have seen the growing influence of streaming platforms and the broad diversity of content on Prime Video.
 
-We hope you find these insights interesting and useful!
+I hope you find these insights interesting and useful!
 
 ## 📎 How to Run This Project
 
